@@ -1,0 +1,5 @@
+{
+  "name": "smoke-test",
+  "version": "0.1.0",
+  "description": "Smoke test plugin for Claude Code."
+}
